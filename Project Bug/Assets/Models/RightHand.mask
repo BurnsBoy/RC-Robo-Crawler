@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightHand
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Spine
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/ForeArm.L.001
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/ForeArm.L.001/ForeArm.L.001_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Hand.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Hand.L/Hand.L.001
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Hand.L/Hand.L.001/Hand.L.002
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Hand.L/Hand.L.001/Hand.L.002/Hand.L.002_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Thumb.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Thumb.L/ThumbTip.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Thumb.L/ThumbTip.L/ThumbTip.L.001
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.L/ForeArm.L/Thumb.L/ThumbTip.L/ThumbTip.L.001/ThumbTip.L.001_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.R
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/ForeArm.R.001
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/ForeArm.R.001/ForeArm.R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Hand.R
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Hand.R/Hand.R.001
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Hand.R/Hand.R.001/Hand.R.002
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Hand.R/Hand.R.001/Hand.R.002/Hand.R.002_end
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Thumb.R
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Thumb.R/ThumbTip.R
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Thumb.R/ThumbTip.R/ThumbTip.R.001
+    m_Weight: 1
+  - m_Path: Armature/Spine/Bicep.R/ForeArm.R/Thumb.R/ThumbTip.R/ThumbTip.R.001/ThumbTip.R.001_end
+    m_Weight: 1
+  - m_Path: Armature/Spine/Neck
+    m_Weight: 0
+  - m_Path: Armature/Spine/Neck/Head 1
+    m_Weight: 0
+  - m_Path: Armature/Spine/Neck/Head 1/Head_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.L/Shin.L
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.L/Shin.L/Shin.L_end
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.R
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.R/Shin.R
+    m_Weight: 0
+  - m_Path: Armature/Spine/Thigh.R/Shin.R/Shin.R_end
+    m_Weight: 0
+  - m_Path: Boots
+    m_Weight: 0
+  - m_Path: ControlPad
+    m_Weight: 0
+  - m_Path: Hands
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 0
+  - m_Path: Legs
+    m_Weight: 0
+  - m_Path: Torso
+    m_Weight: 0
